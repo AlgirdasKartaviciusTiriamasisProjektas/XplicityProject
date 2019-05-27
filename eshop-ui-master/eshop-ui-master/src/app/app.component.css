@@ -1,0 +1,9 @@
+/* spacing between links */
+nav a {
+  margin-right: 0.5em;
+}
+
+/* active route link style */
+.active {
+  font-weight: bold;
+}

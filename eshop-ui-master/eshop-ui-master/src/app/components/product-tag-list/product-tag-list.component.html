@@ -1,0 +1,5 @@
+<ul *ngIf="product != null">
+  <li *ngFor="let tag of product.tags">
+    {{tag.name}}
+  </li>
+</ul>

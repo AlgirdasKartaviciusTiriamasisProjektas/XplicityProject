@@ -1,0 +1,15 @@
+<app-product-input (addButtonClick)="onAddButtonClick($event)"></app-product-input>
+<table *ngIf="products?.length > 0">
+  <tr>
+    <th>ID</th>
+    <th>Title</th>
+    <th>Price</th>
+  </tr>
+  <tr *ngFor="let product of products" (click)="onProductRowClick(product)">
+    <td>{{product.id}}</td>
+    <td>{{product.title}}</td>
+    <td>{{product.price}} €</td>
+  </tr>
+</table>
+<p *ngIf="products?.length == 0">Product list is empty.</p>
+<p *ngIf="errorMessage != null">{{errorMessage}}</p>

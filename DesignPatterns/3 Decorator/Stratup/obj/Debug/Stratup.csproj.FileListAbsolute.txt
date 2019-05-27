@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\Stratup\bin\Debug\Stratup.exe.config
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\Stratup\bin\Debug\Stratup.exe
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\Stratup\bin\Debug\Stratup.pdb
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\Stratup\bin\Debug\DrawingComponents.dll
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\Stratup\bin\Debug\DrawingComponents.pdb
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\Stratup\obj\Debug\Stratup.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\Stratup\obj\Debug\Stratup.Properties.Resources.resources
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\Stratup\obj\Debug\Stratup.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\Stratup\obj\Debug\Stratup.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\Stratup\obj\Debug\Stratup.csproj.CopyComplete
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\Stratup\obj\Debug\Stratup.exe
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\Stratup\obj\Debug\Stratup.pdb

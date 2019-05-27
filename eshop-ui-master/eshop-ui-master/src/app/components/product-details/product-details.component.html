@@ -1,0 +1,10 @@
+<button (click)="onBackButtonClick()">Back</button>
+
+<div *ngIf="product">
+  <p>Id: {{product.id}}</p>
+  <p>Title: {{product.title}}</p>
+  <p>Description: {{product.description}}</p>
+  <p>Price: {{product.price}}</p>
+  <p>Quantity: {{product.quantity}}</p>
+  <app-product-tag-list [product]="product"></app-product-tag-list>
+</div>

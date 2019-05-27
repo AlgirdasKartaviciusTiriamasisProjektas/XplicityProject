@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\DesignPatterns\2 Visitor\Step 2\CodingStandards\bin\Debug\netcoreapp2.1\CodingStandards.deps.json
+C:\Users\Admin\Desktop\DesignPatterns\2 Visitor\Step 2\CodingStandards\bin\Debug\netcoreapp2.1\CodingStandards.dll
+C:\Users\Admin\Desktop\DesignPatterns\2 Visitor\Step 2\CodingStandards\bin\Debug\netcoreapp2.1\CodingStandards.pdb
+C:\Users\Admin\Desktop\DesignPatterns\2 Visitor\Step 2\CodingStandards\obj\Debug\netcoreapp2.1\CodingStandards.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DesignPatterns\2 Visitor\Step 2\CodingStandards\obj\Debug\netcoreapp2.1\CodingStandards.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DesignPatterns\2 Visitor\Step 2\CodingStandards\obj\Debug\netcoreapp2.1\CodingStandards.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DesignPatterns\2 Visitor\Step 2\CodingStandards\obj\Debug\netcoreapp2.1\CodingStandards.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DesignPatterns\2 Visitor\Step 2\CodingStandards\obj\Debug\netcoreapp2.1\CodingStandards.dll
+C:\Users\Admin\Desktop\DesignPatterns\2 Visitor\Step 2\CodingStandards\obj\Debug\netcoreapp2.1\CodingStandards.pdb

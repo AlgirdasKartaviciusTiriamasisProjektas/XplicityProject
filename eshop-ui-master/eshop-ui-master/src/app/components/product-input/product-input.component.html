@@ -1,0 +1,34 @@
+<form #newProductForm="ngForm" class="product-input-form" (ngSubmit)="onSubmit(newProductForm)">
+    <div>
+      <input [(ngModel)]="product.title" type="text" name="title" placeholder="Title" required #nameInput="ngModel">
+      <p *ngIf="nameInput.invalid && (nameInput.dirty || nameInput.touched)" class="error">
+        Product name cannot be empty.
+      </p>
+    </div>
+    <div>
+      <textarea [(ngModel)]="product.description" name="details" placeholder="Description"></textarea>
+    </div>
+    <div>
+      <input [(ngModel)]="product.quantity" type="number" name="quantity" placeholder="Quantity" required min="0" #quantityInput="ngModel">
+      <input [(ngModel)]="product.price" type="number" name="price" placeholder="Price" required min="0" #priceInput="ngModel">
+      <p *ngIf="quantityInput.invalid && (quantityInput.dirty || quantityInput.touched)" class="error">
+        Product quantity cannot be empty.
+      </p>
+      <p *ngIf="priceInput.invalid && (priceInput.dirty || priceInput.touched)" class="error">
+        Product price cannot be empty.
+      </p>
+    </div>
+    <div>
+      <select [(ngModel)]="product.category" name="category">
+        <option value="{{categoryEnum.NotSpecified}}">Not Specified</option>
+        <option value="{{categoryEnum.Phone}}">Phone</option>
+        <option value="{{categoryEnum.Computer}}">Computer</option>
+        <option value="{{categoryEnum.Other}}">Other</option>
+      </select>
+    </div>
+    <div>
+      <button (click)="onAddButtonClick()" [disabled]="newProductForm.form.invalid">
+        Add
+      </button>
+    </div>
+</form>

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\DrawingComponents\bin\Debug\DrawingComponents.dll
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\DrawingComponents\bin\Debug\DrawingComponents.pdb
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\DrawingComponents\obj\Debug\DrawingComponents.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\DrawingComponents\obj\Debug\DrawingComponents.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\DrawingComponents\obj\Debug\DrawingComponents.dll
+C:\Users\Admin\Desktop\DesignPatterns\3 Decorator\DrawingComponents\obj\Debug\DrawingComponents.pdb
